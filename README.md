@@ -1,2 +1,2 @@
-# nya-minecraft-modpack
+# Ня
 сборка модов «ня» для майна
