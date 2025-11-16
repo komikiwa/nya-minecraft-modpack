@@ -26,7 +26,7 @@
 3. иметь версию майнкрафта 1.21.1
 4. скачать [**Fabric Loader**](https://fabricmc.net/use/installer/)
 5. скачать сборку с репозитория
-6. закинуть в `.minecraft/mods`.
+6. закинуть в `C:\Users\User\AppData\Roaming\.minecraft`.
 
 ## changelog
 ### v1.0
