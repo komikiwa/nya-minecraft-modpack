@@ -18,7 +18,7 @@
 ## список шейдеров
 - [Back To Basics 1.1.1](https://modrinth.com/shader/btb-back-to-basics) 
 - [Complementary Reimagined r5.6.1](https://www.complementary.dev/shaders/)
-- [Sildur's Vibrant Shaders v1.50](https://sildurs-shaders.github.io/downloads/)
+- [Sildur's Vibrant Shaders 1.50](https://sildurs-shaders.github.io/downloads/)
 
 ## необходимо для игры в сборку
 1. иметь компьютер
