@@ -85,7 +85,7 @@
 2. иметь [legacy launcher](https://llaun.ch/ru) (на официальном лаунчере ломается отображение скинов!!!!) 
 3. иметь версию майнкрафта 1.21.1
 4. скачать [**Fabric Loader**](https://fabricmc.net/use/installer/)
-5. скачать сборку с репозитория
+5. скачать последнюю версию сборки
 6. закинуть в `C:\Users\User\AppData\Roaming\.tlauncher\legacy\Minecraft\game`.
 
 ## changelog
