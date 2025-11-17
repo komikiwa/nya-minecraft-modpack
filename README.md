@@ -91,3 +91,11 @@
 ## changelog
 ### v1.0
 - привет
+
+### v1.1
+- добавлены следующие моды:
+-- [Creeper Overhaul 4.0.6](https://modrinth.com/mod/creeper-overhaul)
+-- [Critters and Companions 2.3.4](https://modrinth.com/mod/critters-and-companions)
+-- [From The Fog 1.9.4](https://modrinth.com/datapack/from-the-fog)
+-- [Guns++ 5.7.3](https://modrinth.com/datapack/guns++)
+- обновлён [Numismatic Overhaul](https://modrinth.com/mod/numismatic-overhaul) до последней версии (0.3.5)
