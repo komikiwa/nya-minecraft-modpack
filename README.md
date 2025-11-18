@@ -58,6 +58,8 @@
   - [World Weaver 21.0.13](https://modrinth.com/mod/worldweaver)
   - [WunderLib 21.0.8](https://modrinth.com/mod/wunderlib)
   - [YetAnotherConfigLib 3.7.1](https://modrinth.com/mod/yacl)
+  - [Geckolib 4.8.2](https://modrinth.com/mod/geckolib)
+  - [Resourceful Config 3.9.1](https://modrinth.com/mod/resourceful-config)
   
   #### оптимизация
   - [BadOptimizations 2.2.3](https://modrinth.com/mod/badoptimizations)
