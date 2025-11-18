@@ -35,7 +35,16 @@
 - [Creeper Overhaul 4.0.6](https://modrinth.com/mod/creeper-overhaul)
 - [Critters and Companions 2.3.4](https://modrinth.com/mod/critters-and-companions)
 - [From The Fog 1.9.4](https://modrinth.com/datapack/from-the-fog)
-- [Guns++ 5.7.3](https://modrinth.com/datapack/guns++)
+- [PatPat 1.2.3](https://modrinth.com/plugin/patpat)
+- [What Are They Up To 1.2.7](https://modrinth.com/mod/what-are-they-up-to)
+- [Immersive Melodies 0.6.2](https://modrinth.com/mod/immersive-melodies)
+- [Chat Tools 2.3.14.2](https://modrinth.com/mod/chat-tools)
+- [VinURL 2.1.1](https://modrinth.com/mod/vinurl)
+- [Remove Reloading Screen 5.0.10](https://modrinth.com/mod/rrls)
+- [Spawn Animations 1.11.2](https://modrinth.com/datapack/spawn-animations)
+- [Subtle Effects 1.13.1](https://modrinth.com/mod/subtle-effects)
+- [Continuity 3.0.0](https://modrinth.com/mod/continuity)
+- [You Died 4.0.0.19](https://modrinth.com/mod/you-died)
   
   #### библиотеки и подобное гавно
   - [Fabric API 0.116.7](https://modrinth.com/mod/fabric-api)
@@ -45,7 +54,7 @@
   - [Cardinal Components API 6.1.2](https://modrinth.com/mod/cardinal-components-api)
   - [Cloth Config API 15.0.140](https://modrinth.com/mod/cloth-config)
   - [CreativeCore 2.13.5](https://modrinth.com/mod/creativecore)
-  - [Fzzy Config 0.7.0](https://modrinth.com/mod/fzzy-config)
+  - [Fzzy Config 0.7.3](https://modrinth.com/mod/fzzy-config)
   - [libIPN 6.5.0](https://modrinth.com/mod/libipn)
   - [libjf 3.17.3](https://modrinth.com/mod/libjf)
   - [Library Ferret 4.0.0](https://modrinth.com/mod/library-ferret)
@@ -60,6 +69,7 @@
   - [YetAnotherConfigLib 3.7.1](https://modrinth.com/mod/yacl)
   - [Geckolib 4.8.2](https://modrinth.com/mod/geckolib)
   - [Resourceful Config 3.9.1](https://modrinth.com/mod/resourceful-config)
+  - [CoroUtil 1.3.8](https://modrinth.com/mod/coroutil)
   
   #### оптимизация
   - [BadOptimizations 2.2.3](https://modrinth.com/mod/badoptimizations)
@@ -68,19 +78,21 @@
   - [FerriteCore 7.0.2](https://modrinth.com/mod/ferrite-core)
   - [ImmediatelyFast 1.6.5](https://modrinth.com/mod/immediatelyfast)
   - [ThreadTweak 0.1.5](https://modrinth.com/mod/threadtweak)
+  - [Dynamic FPS 3.9.5](https://modrinth.com/mod/dynamic-fps)
 
 ## список ресурспаков
 - [Enhanced Boss Bars 1.4.1](https://modrinth.com/resourcepack/enhanced-boss-bars)
-- [Better Leaves 9.2](https://modrinth.com/resourcepack/better-leaves)
+- [Motschen's Better Leaves 9.4](https://modrinth.com/resourcepack/better-leaves)
 - [Crops 3D](https://modrinth.com/resourcepack/3d-crops)
 - [Simple Grass Flowers 1.9.6](https://modrinth.com/resourcepack/simple-grass-flowers)
-- [Sodium Translations 5.4.0](https://modrinth.com/resourcepack/translations-for-sodium)
+- [Sodium Translations 5.7.0](https://modrinth.com/resourcepack/translations-for-sodium)
 - [Visual Effects+ 0.4.0](https://modrinth.com/resourcepack/visual-effects-plus)
+- [Glowing 0.5.0](https://modrinth.com/resourcepack/glowing)
 
 ## список шейдеров
 - [Back To Basics 1.1.1](https://modrinth.com/shader/btb-back-to-basics) 
 - [Complementary Reimagined r5.6.1](https://www.complementary.dev/shaders/)
-- [Sildur's Vibrant Shaders 1.50](https://sildurs-shaders.github.io/downloads/)
+- [Sildur's Enhanced Default 1.18](https://legacy.curseforge.com/minecraft/shaders/sildurs-enhanced-default)
 
 ## необходимо для игры в сборку
 1. иметь компьютер
