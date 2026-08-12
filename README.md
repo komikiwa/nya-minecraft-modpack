@@ -97,7 +97,6 @@
 -   [Villager in a Bucket 1.1.1](https://modrinth.com/mod/villager-in-a-bucket)
 -   [VinURL 2.6.0+mc1.21.1](https://modrinth.com/mod/vinurl)
 -   [Visual Workbench 2.1.1](https://modrinth.com/mod/visual-workbench)
--   [WaterMedia 2.1.3.7](https://modrinth.com/mod/watermedia)
 -   [What Durability 1.3](https://modrinth.com/mod/what-durability)
 -   [Withered Foxy Jumpscare 1.3.2](https://modrinth.com/datapack/withererd-foxy-jumpscare)
 -   [Xaero's Minimap 26.4.2](https://modrinth.com/mod/xaeros-minimap)
@@ -146,6 +145,7 @@
 -   [Zeta 1.1-40](https://modrinth.com/mod/zeta)
 -   [Entity Model Features 3.2.4](https://modrinth.com/mod/entity-model-features)
 -   [Entity Texture Features 7.1](https://modrinth.com/mod/entitytexturefeatures)
+-   [WaterMedia 2.1.3.7](https://modrinth.com/mod/watermedia)
 
 #### оптимизация
 
