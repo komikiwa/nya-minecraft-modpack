@@ -105,6 +105,7 @@
 -   [Withered Foxy Jumpscare 1.3.2](https://modrinth.com/datapack/withererd-foxy-jumpscare)
 -   [Xaero's Minimap 26.4.2](https://modrinth.com/mod/xaeros-minimap)
 -   [YAGM 0.1.2](https://modrinth.com/mod/yagm)
+-   [Mine Team](https://modrinth.com/mod/mine-team)
 
 #### библиотеки и прочее гавно
 
@@ -173,6 +174,7 @@
 - [Sodium Translations 8.8.0](https://modrinth.com/resourcepack/translations-for-sodium)
 - [Soundaria 5.1](https://modrinth.com/resourcepack/soundaria)
 - [Shrimp's Distinct Potions](https://modrinth.com/resourcepack/shrimps-distinct-potions)
+- [Better HUD icons](https://modrinth.com/resourcepack/better-hud-icons)
 
 ## список шейдеров
 - [Back To Basics 1.1.1](https://modrinth.com/shader/btb-back-to-basics) 
