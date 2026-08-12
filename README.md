@@ -1,7 +1,7 @@
 # моя супер крутая сборка для игры в майн
 
 <p align="center">
-  <img src="https://imgur.com/f7jB3KX" alt="бубубубуб">
+  <img src="https://i.imgur.com/f7jB3KX.png" alt="бубубубуб">
 </p>
 
 ## список модов
