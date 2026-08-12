@@ -29,6 +29,7 @@
 -   [Drip Sounds 0.5.2+1.21.1](https://modrinth.com/mod/dripsounds)
 -   [Dynamic Waters 1.1.2](https://modrinth.com/mod/dynamic-waters)
 -   [E4Steam 0.2.3](https://modrinth.com/mod/e4steam)
+-   [EMI 1.1.24](https://modrinth.com/mod/emi)
 -   [Enderman Overhaul 2.0.3](https://modrinth.com/mod/enderman-overhaul)
 -   [Enhanced Cats 1.0.1](https://modrinth.com/mod/enhanced-cats)
 -   [Enhanced Celestials 1.1-6.0.2.5](https://modrinth.com/mod/enhanced-celestials)
