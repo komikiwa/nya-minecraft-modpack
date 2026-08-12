@@ -1,5 +1,9 @@
 # моя супер крутая сборка для игры в майн
 
+<p align="center">
+  <img src="https://imgur.com/f7jB3KX" alt="бубубубуб">
+</p>
+
 ## список модов
 
 -   [Accurate Block Placement 1.0.0](https://modrinth.com/mod/reforged-accurate-block-placement)
