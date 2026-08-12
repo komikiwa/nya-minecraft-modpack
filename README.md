@@ -61,7 +61,6 @@
 -   [Naturalist 1.0.2](https://modrinth.com/mod/naturalist)
 -   [No Man's Land 1.5.12](https://modrinth.com/mod/nomansland)
 -   [Not Enough Animations 1.2.4](https://modrinth.com/mod/not-enough-animations)
--   [Particle Core 0.3.3+1.21.1](https://modrinth.com/mod/particle-core)
 -   [Particle Effects 1.5.0+1.21.1](https://modrinth.com/mod/particle-effects)
 -   [PiggyBack 1.1.1.1](https://modrinth.com/mod/piggyback)
 -   [Placeable Maxwell 1.2.1+1.21.1](https://modrinth.com/mod/placeable-maxwell)
@@ -162,6 +161,7 @@
 -   [ModernFix 5.27.20+mc1.21.1](https://modrinth.com/mod/modernfix)
 -   [Noisiumed 3.0.6](https://modrinth.com/mod/noisiumed)
 -   [Sodium 0.8.12+mc1.21.1](https://modrinth.com/mod/sodium)
+-   [Particle Core 0.3.3+1.21.1](https://modrinth.com/mod/particle-core)
 
 
 ## список ресурспаков
