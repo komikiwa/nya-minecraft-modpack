@@ -103,6 +103,7 @@
 -   [Withered Foxy Jumpscare 1.3.2](https://modrinth.com/datapack/withererd-foxy-jumpscare)
 -   [Xaero's Minimap 26.4.2](https://modrinth.com/mod/xaeros-minimap)
 -   [YAGM 0.1.2](https://modrinth.com/mod/yagm)
+-   [FancyMenu](https://modrinth.com/mod/fancymenu) 
 -   [Mine Team](https://modrinth.com/mod/mine-team)
 
 #### библиотеки и прочее гавно
