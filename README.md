@@ -55,7 +55,6 @@
 -   [Lunar Shaders 2.1.0](https://modrinth.com/mod/lunar-shaders)
 -   [Magic Mirror 1.2.1](https://modrinth.com/mod/the-magic-mirror)
 -   [Maid Beacon 1.0.1-bugfix](https://modrinth.com/mod/maid-beacon)
--   [Melancholic Hunger 2.0.3](https://modrinth.com/mod/melancholic-hunger)
 -   [Miaow 1.1.0](https://modrinth.com/mod/miaow)
 -   [Minecraft Cursor 3.11.3+1.21.1](https://modrinth.com/mod/minecraft-cursor)
 -   [Naturalist 1.0.2](https://modrinth.com/mod/naturalist)
